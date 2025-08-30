@@ -1,0 +1,6 @@
+/* Custom styles can be added here */
+.home_background{
+    background-image: url("/public/home_background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
