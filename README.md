@@ -153,6 +153,4 @@ The application uses WebM format for processed videos, which offers several adva
 
 The system automatically converts uploaded videos (MP4, AVI, MOV, MKV) to WebM format during the detection process, ensuring optimal performance and compatibility.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
